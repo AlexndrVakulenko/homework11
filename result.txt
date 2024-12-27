@@ -1,0 +1,43 @@
+NGINX Log за период 24/Nov/2023:05:05:39-25/Nov/2023:00:25:46
+
+      93.158.167.130 	 запросов :38
+      212.57.117.19 	 запросов :37
+      188.43.241.106 	 запросов :33
+      87.250.233.68 	 запросов :29
+      109.236.252.130 	 запросов :28
+      62.75.198.172 	 запросов :23
+      148.251.223.21 	 запросов :22
+      185.6.8.9 	 запросов :20
+      217.118.66.161 	 запросов :17
+      95.165.18.146 	 запросов :16
+      62.210.252.196 	 запросов :12
+      185.142.236.35 	 запросов :12
+      162.243.13.195 	 запросов :12
+      95.108.181.93 	 запросов :9
+      163.179.32.118 	 запросов :8
+      167.99.14.153 	 запросов :6
+      87.250.233.75 	 запросов :5
+      71.6.199.23 	 запросов :5
+
+ Наиболее часто запрашиваемые адреса: 
+	107	 запросов:  URL:/example.php
+	63	 запросов:  URL:/
+	53	 запросов:  URL:/test_xml_rpc.php
+	16	 запросов:  URL:/favicon.txt
+	10	 запросов:  URL:/test.ico
+	7	 запросов:  URL:/wp-includes/js/wp-embed.min.js?ver=5.0.4
+	6	 запросов:  URL:/wp-content/themes/llorix-one-lite/style.css?ver=1.0.0
+	5	 запросов:  URL:/wp-includes/js/wp-emoji-release.min.js?ver=5.0.4
+	5	 запросов:  URL:/wp-content/themes/llorix-one-lite/js/vendor/bootstrap.min.js?ver=3.3.7
+	5	 запросов:  URL:/wp-content/themes/llorix-one-lite/js/skip-link-focus-fix.js?ver=1.0.0
+	5	 запросов:  URL:/wp-content/themes/llorix-one-lite/js/custom.all.js?ver=2.0.2
+	5	 запросов:  URL:/wp-content/themes/llorix-one-lite/css/bootstrap.min.css?ver=3.3.1
+
+ Частые ошибки:
+    450 200
+     82 301
+     45 404
+     17 400
+      3 500
+      2 499
+      2 403
